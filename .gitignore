@@ -1,0 +1,17 @@
+# Python runtime files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folder (if you created one named .venv)
+.venv/
+venv/
+env/
+
+# Environment variables
+.env*  # Ignore .env and any variations like .env.local
+
+# IDE / Editor specific files (examples)
+.vscode/
+.idea/
+*.DS_Store
