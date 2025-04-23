@@ -9,7 +9,7 @@ It includes:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repo-url>
+    git clone <https://github.com/enskaff/mcp-gemini.git>
     cd mcp-gemini-analyzer
     ```
 2.  **Create a virtual environment (recommended):**
